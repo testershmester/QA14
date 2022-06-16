@@ -1,6 +1,6 @@
 public class Kubarev {
-    public void Test () {
-
+    public void TestM () {
+        int test  = 1;
 
     }
 }
